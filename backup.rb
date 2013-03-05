@@ -1,4 +1,3 @@
-require 'ap'
 require './backup_class.rb'
 
 
